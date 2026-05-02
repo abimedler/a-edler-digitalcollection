@@ -1,5 +1,9 @@
 field,display_name,btn,hidden,sort_name
-date,Date,,,Date
-creator,Creator,,,
-subject,,true
-location,,true
+date,Date,,,Date Created
+time,Time,,,Time of Day
+nearbycity,Nearby City,true,,City
+county,County,true,,County
+hikingtrail,Hiking Trail,true,,Hiking Trail
+weather,Weather,true,,
+terrain,Terrain,true,,
+fauna,Fauna,true,,
