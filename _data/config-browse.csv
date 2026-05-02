@@ -1,8 +1,8 @@
 field,display_name,btn,hidden,sort_name
 date,Date,,,Date Created
 time,Time,,,Time of Day
-nearbycity,Nearby City,true,,,
-county,County,true,,County
+nearbycity,Nearby City,true,,
+county,County,true,,
 hikingtrail,Hiking Trail,true,,
 weather,Weather,true,,
 terrain,Terrain,true,,
