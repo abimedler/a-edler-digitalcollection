@@ -1,7 +1,11 @@
 field,index,display
 title,true,true
 date,true,true
-creator,true,false
-description,true,true
-subject,true,true
-location,true,false
+title,true,true
+nearbycity,true,true
+county,true,true
+hikingtrail,true,true
+weather,true,true
+geographicalfeatures,true,true
+terrain,true,true
+fauna,true,true
