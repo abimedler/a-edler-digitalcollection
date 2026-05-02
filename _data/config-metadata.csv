@@ -1,13 +1,19 @@
 field,display_name,browse_link,external_link
 title,Title,
+objectid,Object ID,
 creator,Creator,
 date,Date Created,
+time,Time,
 description,Description,
-subject,Subjects,true
-location,Location
+nearbycity,Nearby City,
+county,County,
+hikingtrail,Hiking Trail,
+weather,Weather Conditions,
+geographicalfeatures,Geographical Features,
+terrain,Terrain,
+fauna,Fauna,
 latitude,Latitude
 longitude,Longitude
-source,Source
 identifier,Source Identifier,,
 type,Type,
 format,Format,
