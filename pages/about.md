@@ -12,15 +12,12 @@ credits: true
 
 {% include feature/nav-menu.html sections="About the Collection" %}
 
+{% include feature/nav-menu.html sections="About the Author" %}
+
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+This collection consists of 15 images depicting the northern British countryside and showcasing the beauty of the outdoors. To learn more about each of the hiking trails featured in this collection, check out the [National Trails UK](https://www.nationaltrail.co.uk/en_GB/).
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+## About the Author
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
+Abigayle Edler lived in York, a city in the northeastern part of the UK, from 2021 to 2023 while attending the University of York. Keen to explore the outdoors, Abigayle went on frequent hikes around the countryside and documented the views for her family and friends back home in the US. This collection was created as a digital repository to share those photos and to inspire visitors to the northern region of the UK to go and have an outdoor adventure!
